@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #E9EDEE;
+}
+
+header {
+    background-color: #222F3F;
+}
+
+header img {
+    margin-left: 20px;
+    width: 8%;
+    height: 100%;
+   }
+
+nav {
+    background-color: #364759;
+    padding: 7px;
+}
+
+.navigazione a {
+    text-decoration: none;
+    color: white;
+    text-align: left;
+}
+
+.navigazione li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.boxgiftcards {
+
+    text-align: center;
+    color: white;
+    background-color: #F56600;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 20px;
+    background-image: url(/Esercizio_settimana2/img/bg-image.png);
+    background-size:auto;
+    padding: 50px;
+}
+
+.container h1 {
+    color: white;
+    font-weight: bold;
+    font-size:xx-large;
+}
+
+.container h2 {
+    color: white;
+    font-weight: bold;
+   
+}
+
+
+
+.containerimmagini img{
+    float: left;
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-radius: 15%;
+    
+}
