@@ -61,12 +61,19 @@ nav{
 
 .containerimmagini {
     background-color: #E9EDEE;
+    padding: 10px;
 }
 
 
+.containerimmagini a {
+    font-weight: bold;
+    color: #438F99;
+    text-decoration: none;
+}
+
 .containerimmagini img{
     object-fit: cover;
-    background-color: #white;
+    background-color: white;
     float: left;
     width: 250px;
     height: 300px;
@@ -83,6 +90,7 @@ nav{
 .secondoblocco a {
     font-weight: bold;
     color: #438F99;
+    text-decoration: none;
 }
 
 .secondoblocco img {
@@ -101,6 +109,7 @@ nav{
 .terzoblocco a {
     font-weight: bold;
     color: #438F99;
+    text-decoration: none;
 }
 .terzoblocco img {
    
